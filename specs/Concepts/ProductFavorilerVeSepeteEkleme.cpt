@@ -1,0 +1,32 @@
+# ProductListten rasgele 3 ürün secerek favorilere ve sepete atma
+* "HepsiburadaHomePageDonus" elementine tikla
+* "HepsiburadaHomepageIcon" elementi gorunur olana kadar bekle
+* "HepsiburadaHomepageAltMenuKategorilerimIcon" elementi varsa tikla
+* "KatagorilerGiyimIcon" elementi varsa tikla
+* "GiyimTextBilgi" elementi gorunur olana kadar bekle
+* "RastgeleSecimGiyim" elementi rasgele sec
+* "UrunSayfasıAltMenuFavorileButton" elementi varsa tikla
+* "UrunSayfasıAltMenuFavorileButtonKirmizi" elementinin oldugu kontrol edilir
+* "UrunSayfasıAltMenuSepeteEkleButton" elementi varsa tikla
+* "UrunSepetinizdeLabel" elementi gorunur olana kadar bekle
+* "AlisveriseDevamEtButton" elementi varsa tikla
+* "GiyimTextBilgi" elementi gorunur olana kadar bekle
+* "RastgeleSecimGiyim" elementi rasgele sec
+* "UrunSayfasıAltMenuFavorileButton" elementi varsa tikla
+* "UrunSayfasıAltMenuFavorileButtonKirmizi" elementinin oldugu kontrol edilir
+* "UrunSayfasıAltMenuSepeteEkleButton" elementi varsa tikla
+* "UrunSepetinizdeLabel" elementi gorunur olana kadar bekle
+* "AlisveriseDevamEtButton" elementi varsa tikla
+* "GiyimTextBilgi" elementi gorunur olana kadar bekle
+* "RastgeleSecimGiyim" elementi rasgele sec
+* "UrunSayfasıAltMenuFavorileButton" elementi varsa tikla
+* "UrunSayfasıAltMenuFavorileButtonKirmizi" elementinin oldugu kontrol edilir
+* "UrunSayfasıAltMenuSepeteEkleButton" elementi varsa tikla
+* "UrunSepetinizdeLabel" elementi gorunur olana kadar bekle
+* "AlisveriseDevamEtButton" elementi varsa tikla
+
+# Favorilere atılan ürünleri kontrol etme
+* "HepsiburadaHomepageAltMenuListelerimIcon" elementine tikla
+* "IsimArea" elementinin oldugu kontrol edilir
+* "Begendiklerim" elementine tikla
+* "BegenilenUrunSayısıLabel" elementinin oldugu kontrol edilir

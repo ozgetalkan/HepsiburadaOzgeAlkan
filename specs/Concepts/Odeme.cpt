@@ -1,0 +1,26 @@
+# Odeme sayfasi adimlari izlenir ve hatali kart bilgileri ile odeme ekranı surdurulur
+* "HepsiburadaHomepageAltMenuAnasayfamIcon" elementine tikla
+* "HepsiburadaHomepageIcon" elementi gorunur olana kadar bekle
+* "HepsiburadaHomepageAltMenuSepetimIcon" elementine tikla
+* "AlisverisiTamamlaButton" elementine tikla
+* "YeniAdresEkleArea" elementine tikla
+* "AdTextInput" id'li elemente "Ozge" text degerini gonder
+* "SoyadTextInput" id'li elemente "Alkan" text degerini gonder
+*"TelefonInput" id'li elemente "5465465446" text degerini gonder
+*"MahalleCaddeSokakSearch" id'li elemente "Aydintepe Mahallesi Prof. Dr. Necmettin Erbakan Caddesi" text degerini gonder
+*"SehirSecim" id'li elemente "İstanbul" text degerini gonder
+* "SehirSecim" elementi bulana kadar swipe et
+*"AdresIsımVerme" id'li elemente "Yazlik Evim" text degerini gonder
+* "AdresFaturaBilgiCheck" elementine tikla
+* "BireyselFaturaTipi" elementine tikla
+* "KurumsalFaturaTipi" elementine tikla
+* "AdresKaydetButton" elementine tikla
+* "CardNumber" id'li elemente "4456782356342188" text degerini gonder
+* "Cardİsmi" id'li elemente "Ozge Alkan" text degerini gonder
+* "CardSKT" id'li elemente "11/27" text degerini gonder
+* "GuvenlikKodu" id'li elemente "145" text degerini gonder
+* "KartAydınlatmaMetni" elementine tikla
+* "OnBilgilendirmeOnay" elementine tikla
+* "SiparisOnayButton" elementine tikla
+* "TelefonNumaraGiris" id'li elemente "5465465446" text degerini gonder
+* "OnaylaButton" elementine tikla

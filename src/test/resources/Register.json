@@ -1,0 +1,90 @@
+[
+  {
+    "key": "HepsiburadaUyeOlBtn",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_0']/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaGirisYapBtn",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_1']/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaMisafirKullaniciTitle",
+    "androidValue": "com.pozitron.hepsiburada:id/tvToolbarTitle",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaEmailArea",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "RegisterLoginButton",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "RegisterUyeOlButton",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "EpostaTextLabel",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "EpostaAdresGirisArea",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "EpostaDevamEtButton",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "EpostaDogrulamaMailiPopUp",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "KvkMetniBilgi",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "GoogleGirisButton",
+    "androidValue": "btnGoogle",
+    "androidType": "id"
+  },
+  {
+    "key": "FacebookGirisButton",
+    "androidValue": "btnFacebook",
+    "androidType": "id"
+  },
+  {
+    "key": "FacebookGirisButton",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[2]",
+    "androidType": "id"
+  },
+  {
+    "key": "GirisYapEpostaArea",
+    "androidValue": "txtUserName",
+    "androidType": "id"
+  },
+  {
+    "key": "GirisYapButton",
+    "androidValue": "btnLogin",
+    "androidType": "id"
+  },
+  {
+    "key": "YardimİhtiyacButton",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]",
+    "androidType": "xpath"
+  }
+
+
+]
+

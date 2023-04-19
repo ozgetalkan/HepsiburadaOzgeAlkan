@@ -1,0 +1,7 @@
+# Sepete gidip bir adet ürün kaldırma ve odeme sayfasına gecis
+* "HepsiburadaHomepageAltMenuAnasayfamIcon" elementine tikla
+* "HepsiburadaHomepageIcon" elementi gorunur olana kadar bekle
+* "HepsiburadaHomepageAltMenuSepetimIcon" elementine tikla
+* "SeciliUrunleriSilIcon" elementine tikla
+* "3" saniye kadar bekle
+* "AlisverisiTamamlaButton" elementine tikla

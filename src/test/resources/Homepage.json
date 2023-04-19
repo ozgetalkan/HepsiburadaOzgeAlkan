@@ -1,0 +1,57 @@
+[
+  {
+    "key": "HepsiburadaHomepageIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/image_message_of_day",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageAramaIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/imageViewSearchIcon",
+    "androidType": "id"
+  },
+  {
+  "key": "HepsiburadaHomepageAramaArea",
+  "androidValue": "com.pozitron.hepsiburada:id/etSearchBox",
+  "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageKameraIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/ivCamera",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageBildirimIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/imageViewNotification",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageHesapIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageAltMenuAnasayfamIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_home",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageAltMenuKategorilerimIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_category",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageAltMenuSepetimIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_cart",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageAltMenuListelerimIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_my_list",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomepageAltMenuHepsiIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/menuItemAllFakeView",
+    "androidType": "id"
+  }
+]

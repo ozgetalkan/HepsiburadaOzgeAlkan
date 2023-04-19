@@ -1,0 +1,69 @@
+[
+  {
+    "key": "KatagorilerGiyimIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='insideMenuItem1-3']/androidx.cardview.widget.CardView/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "FacebookGirisButton",
+    "androidValue": "//android.view.ViewGroup[@content-desc='insideMenuItem1-3']/androidx.cardview.widget.CardView/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "GiyimPaylas",
+    "androidValue": "Paylaş",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "SiralaButton",
+    "androidValue": "com.pozitron.hepsiburada:id/lytOptionBarSort",
+    "androidType": "id"
+  },
+  {
+    "key": "FiltreleButton",
+    "androidValue": "com.pozitron.hepsiburada:id/lytOptionBarFilters",
+    "androidType": "id"
+  },
+  {
+    "key": "GiyimTextBilgi",
+    "androidValue": "com.pozitron.hepsiburada:id/tvToolbarTitle",
+    "androidType": "id"
+  },
+  {
+    "key": "AramaButton",
+    "androidValue": "arama",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HesabımAramaButton",
+    "androidValue": "Hesabım",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "YarinKapida",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[1]/android.view.ViewGroup",
+    "androidType": "xpath"
+  },
+  {
+    "key": "GiyimTextBilgi",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[2]/android.view.ViewGroup/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "FiyatAraligi",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[3]/android.view.ViewGroup",
+    "androidType": "xpath"
+  },
+  {
+    "key": "DegerlendirmePuan",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[4]/android.view.ViewGroup/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "RastgeleSecimGiyim",
+    "androidValue": "com.pozitron.hepsiburada:id/rvPlp",
+    "androidType": "id"
+  }
+
+]
+

@@ -1,0 +1,83 @@
+[
+  {
+    "key": "UrunSayfasıGeriButonu",
+    "androidValue": "com.pozitron.hepsiburada:id/leftIcon",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıPaylasButonu",
+    "androidValue": "com.pozitron.hepsiburada:id/share",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıKarsilastirButonu",
+    "androidValue": "com.pozitron.hepsiburada:id/compareIcon",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıUrunAdiButonu",
+    "androidValue": "com.pozitron.hepsiburada:id/tvProductName",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıUrunYildizPuan",
+    "androidValue": "com.pozitron.hepsiburada:id/rBarReviews",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıUrunSayiPuan",
+    "androidValue": "com.pozitron.hepsiburada:id/tvProductRatio",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıUrunYorumSayisi",
+    "androidValue": "com.pozitron.hepsiburada:id/tvAllReviews",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıUrunFotografliYorumlar",
+    "androidValue": "com.pozitron.hepsiburada:id/ivAllReviews",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıBedenTablosu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.view.ViewGroup[1]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UrunSayfasıRenkTablosu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.view.ViewGroup[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UrunSayfasıHepsiburadaLogo",
+    "androidValue": "com.pozitron.hepsiburada:id/tvMerchantName",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıSaticiTakipEt",
+    "androidValue": "com.pozitron.hepsiburada:id/btnFollow",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıAltMenuFiyatLabel",
+    "androidValue": "com.pozitron.hepsiburada:id/ivEdit",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSayfasıAltMenuFavorileButton",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UrunSayfasıAltMenuFavorileButtonKirmizi",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UrunSayfasıAltMenuSepeteEkleButton",
+    "androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart_text",
+    "androidType": "id"
+  }
+
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "key": "HepsiburadaLabel",
+    "androidValue": "com.pozitron.hepsiburada:id/alertTitle",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHosGeldinKullanıcıAdı",
+    "androidValue": "android:id/message",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaTamamButton",
+    "androidValue": "android:id/button1",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaHomePageDonus",
+    "androidValue": "com.pozitron.hepsiburada:id/ivToolbarBack",
+    "androidType": "id"
+  }
+
+]

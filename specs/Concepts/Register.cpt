@@ -1,0 +1,9 @@
+# Hepsiburada mobil uygulamasına girilir ve hesap oluşturulur
+* "HepsiburadaHomepageIcon" elementi gorunur olana kadar bekle
+* "HepsiburadaHomepageHesapIcon"  elementine tikla
+* "HepsiburadaMisafirKullaniciTitle" elementi gorunur olana kadar bekle
+* "HepsiburadaUyeOlBtn" elementine tikla
+* "HepsiburadaEmailArea" id'li elemente "deneme1360@gmail.com" text degerini gonder
+* "EpostaDevamEtButton" elementine tikla
+* "EpostaDogrulamaMailiPopUp" elementinin oldugu kontrol edilir
+// Manuel olarak Hepsiburada uygulaması üzerinden gönderilen doğrulama maili ile hesap oluşturulur.

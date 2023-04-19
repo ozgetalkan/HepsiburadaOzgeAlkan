@@ -1,0 +1,20 @@
+#Yanlış şifre ile login olma denenir
+* "HepsiburadaHomepageIcon" elementi gorunur olana kadar bekle
+* "HepsiburadaHomepageHesapIcon"  elementine tikla
+* "YardimİhtiyacButton" elementi gorunur olana kadar bekle
+* "GirisYapEpostaArea" id'li elemente "deneme1360@gmail.com" text degerini gonder
+* "HepsiburadaGirisYapSekmesi" elementine tikla
+* "HosgeldinizHeader" elementinin oldugu kontrol edilir
+* "MailSifreArea" id'li elemente "Deneme1234**" text degerini gonder
+* "YanlisSifrePopUpInfo" elementinin oldugu kontrol edilir
+
+#Dogru bilgiler ile basarili login olma denenir
+* "HepsiburadaHomepageIcon" elementi gorunur olana kadar bekle
+* "HepsiburadaHomepageHesapIcon"  elementine tikla
+* "YardimİhtiyacButton" elementi gorunur olana kadar bekle
+* "GirisYapEpostaArea" id'li elemente "deneme1360@gmail.com" text degerini gonder
+* "HepsiburadaGirisYapSekmesi" elementine tikla
+* "HosgeldinizHeader" elementinin oldugu kontrol edilir
+* "MailSifreArea" id'li elemente "Deneme1234*" text degerini gonder
+* "HepsiburadaHosGeldinKullanıcıAdı" elementinin oldugu kontrol edilir
+* "HepsiburadaTamamButton" elementine tikla

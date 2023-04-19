@@ -1,0 +1,242 @@
+[
+  {
+    "key": "HepsiburadaMyProfileLogo",
+    "androidValue": "Hesabım",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaGirisYapSekmesi",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaUyeOlBtn",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_0']/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaGirisYapBtn",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_1']/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaMisafirKullaniciTitle",
+    "androidValue": "com.pozitron.hepsiburada:id/tvToolbarTitle",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaEmailArea",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaUyeOlOnayiBtn",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "HepsiburadaGirisYapBtn",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_1']/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaGirisYapBtn",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView/android.view.ViewGroup",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaSiparislerimMenu",
+    "androidValue": "account_menu_3",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaSiparislerimMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_3']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaSiparislerimMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_3']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaSanaOzelMenu",
+    "androidValue": "account_menu_4",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaSanaOzelMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_4']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaSanaOzelMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_4']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaKuponlarimMenu",
+    "androidValue": "account_menu_5",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaKuponlarimMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_5']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaKuponlarimMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_5']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaOynadikcaKazanMenu",
+    "androidValue": "account_menu_6",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaOynadikcaKazanMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_6']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaOynadikcaKazanMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_6']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaHepsipayMenu",
+    "androidValue": "account_menu_7",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaHepsipayMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_7']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaHepsipayMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_7']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaBegendiklerimMenu",
+    "androidValue": "account_menu_8",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaBegendiklerimMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_8']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaBegendiklerimMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_8']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaSoruVeTaleplerimMenu",
+    "androidValue": "account_menu_9",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaSoruVeTaleplerimMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_9']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaSoruVeTaleplerimMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_9']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaDegerlendirmelerimMenu",
+    "androidValue": "account_menu_10",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaDegerlendirmelerimMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_10']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaDegerlendirmelerimMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_10']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaAyarlarimMenu",
+    "androidValue": "account_menu_11",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaAyarlarimMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_11']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaAyarlarimMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_11']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaAdreslerimMenu",
+    "androidValue": "account_menu_12",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaAdreslerimMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_12']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaAdreslerimMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_12']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaUrunKarsilastirmaMenu",
+    "androidValue": "account_menu_13",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaUrunKarsilastirmaMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_13']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaUrunKarsilastirmaMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_13']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaUygulamaİcinGeriBildirimYapinMenu",
+    "androidValue": "account_menu_14",
+    "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaUygulamaİcinGeriBildirimYapinMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_14']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaUygulamaİcinGeriBildirimYapinMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_14']/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+  "key": "HepsiburadaMusteriHizmetleriMenu",
+  "androidValue": "account_menu_15",
+  "androidType": "accessibility_id"
+  },
+  {
+    "key": "HepsiburadaMusteriHizmetleriMenuIcon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_15']/android.widget.ImageView[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiburadaMusteriHizmetleriMenuText",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_15']/android.widget.TextView",
+    "androidType": "xpath"
+  }
+]
